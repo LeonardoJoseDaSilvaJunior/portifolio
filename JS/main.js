@@ -1,0 +1,1 @@
+const imagemLikedin = document.getElementsByClassName(".logo-branca");
